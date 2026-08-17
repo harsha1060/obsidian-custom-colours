@@ -3,4 +3,4 @@ Hi, I use the [Blue Topaz](https://github.com/pkm-er/Blue-Topaz_Obsidian-css) th
 
 <img width="233" height="559" alt="Custome_Colors" src="https://github.com/user-attachments/assets/f303ef84-b25d-4cbd-ac72-a47de926d8ee" />
 
-I don't use light theme that much so didn't bothered to perfect but it is ok.
+I don't use light theme that much, so I didn't bother perfecting it, but it's okay.
